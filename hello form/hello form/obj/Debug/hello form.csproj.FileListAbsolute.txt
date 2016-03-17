@@ -1,0 +1,9 @@
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\bin\Debug\hello form.exe.config
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\bin\Debug\hello form.exe
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\bin\Debug\hello form.pdb
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\obj\Debug\hello form.csprojResolveAssemblyReference.cache
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\obj\Debug\hello_form.Form1.resources
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\obj\Debug\hello_form.Properties.Resources.resources
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\obj\Debug\hello form.csproj.GenerateResource.Cache
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\obj\Debug\hello form.exe
+C:\Users\Victor Ro\Desktop\ejercisios visual\C# form\hello form\hello form\obj\Debug\hello form.pdb
