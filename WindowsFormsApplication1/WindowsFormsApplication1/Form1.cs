@@ -16,5 +16,25 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            btn2.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            btn3.Focus();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            btn2.Hide();
+        }
     }
 }
